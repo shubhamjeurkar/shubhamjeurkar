@@ -1,3 +1,4 @@
+I am a full stack developer. I have created end to end web applications in E-commerce domain using Angular, Java + Spring Boot, and MySQL.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-jeurkar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21548579) 
